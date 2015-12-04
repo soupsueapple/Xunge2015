@@ -52,7 +52,7 @@ class ViewController: BaseViewController, UITextFieldDelegate{
         }else if self.passwordTextField.text!.isEmpty {
             self.showAlertView("请输入密码")
         }else{
-            
+            //sss
         }
     }
     
